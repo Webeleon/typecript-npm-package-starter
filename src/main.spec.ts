@@ -1,7 +1,8 @@
-import { main } from 'ts-node/dist/bin';
+import implement from './main';
 
 describe('main', () => {
   it('is defined', () => {
-      expect(main).toBeDefined();
+      expect(implement).toBeDefined();
+      expect(() => implement()).toThrow();
   });
 });
