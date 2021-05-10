@@ -19,7 +19,7 @@ jobs:
       - name: test
         run: |
           npm run test
-          npm run test:coverage
+          npm run test:cov
 
       - name: Coveralls
         uses: coverallsapp/github-action@master
