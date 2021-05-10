@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/Webeleon/typecript-npm-package-starter/compare/v0.0.6...v0.0.7) (2021-05-10)
+
+
+### Bug Fixes
+
+* build before publishing ([34200d7](https://github.com/Webeleon/typecript-npm-package-starter/commit/34200d7a1d192c7d97db38d68890cf4a9a2df124))
+
 ### [0.0.6](https://github.com/Webeleon/typecript-npm-package-starter/compare/v0.0.5...v0.0.6) (2021-05-10)
 
 
