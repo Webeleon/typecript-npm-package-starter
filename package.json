@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-starter",
+  "name": "@webeleon/npm-package-starter-typescript",
   "version": "0.0.2",
   "description": "starter npm package using typescript",
   "main": "lib/main.js",
