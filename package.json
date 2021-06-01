@@ -1,6 +1,6 @@
 {
   "name": "@webeleon/npm-package-starter-typescript",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "starter npm package using typescript",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",

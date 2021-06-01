@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/Webeleon/typecript-npm-package-starter/compare/v0.0.7...v0.0.8) (2021-06-01)
+
+
+### Bug Fixes
+
+* update lockfile ([ab27e34](https://github.com/Webeleon/typecript-npm-package-starter/commit/ab27e3499f3140b04367d4a59380b3517f95f796))
+* **deps:** update dependency query-string to v7 ([630d4fe](https://github.com/Webeleon/typecript-npm-package-starter/commit/630d4fe628cff0ec102195d60e5080051578d246))
+
 ### [0.0.7](https://github.com/Webeleon/typecript-npm-package-starter/compare/v0.0.6...v0.0.7) (2021-05-10)
 
 
