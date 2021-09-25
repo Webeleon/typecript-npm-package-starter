@@ -40,7 +40,7 @@
     "@commitlint/cli": "13.1.0",
     "@commitlint/config-conventional": "13.1.0",
     "@types/jest": "27.0.1",
-    "@types/sinon": "10.0.2",
+    "@types/sinon": "10.0.4",
     "husky": "7.0.2",
     "jest": "27.2.0",
     "lint-staged": "11.1.2",
