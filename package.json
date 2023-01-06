@@ -43,7 +43,7 @@
     "@types/sinon": "10.0.13",
     "husky": "8.0.3",
     "jest": "27.5.1",
-    "lint-staged": "11.2.6",
+    "lint-staged": "13.1.0",
     "prettier": "2.8.1",
     "sinon": "15.0.1",
     "standard-version": "9.5.0",
