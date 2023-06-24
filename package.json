@@ -37,8 +37,8 @@
   "author": "Julien Prugne<juliene@webeleon.dev>",
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "17.6.5",
-    "@commitlint/config-conventional": "17.6.5",
+    "@commitlint/cli": "17.6.6",
+    "@commitlint/config-conventional": "17.6.6",
     "@types/jest": "29.5.2",
     "@types/sinon": "10.0.15",
     "husky": "8.0.3",
